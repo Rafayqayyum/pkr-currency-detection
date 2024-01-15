@@ -21,7 +21,7 @@ MobileNetV3Small achieved an F1-score of 99% on the test set.
 ### EfficientNetV2B0
 EfficientNetV2B0 achieved an F1-score of 100% on the test set.
 
-![EfficientNetV2B0](results/efficient_net_v2_b0.png)
+![EfficientNetV2B0](results/efficient_net_v2b0.png)
 
 ## Training
 The model is trained on Google Colab. The training notebook is available in the repository.
